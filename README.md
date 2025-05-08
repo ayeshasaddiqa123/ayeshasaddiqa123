@@ -3,7 +3,7 @@
  
  This is AYESHA SADDIQA student of computer science at government college university.
  
- I am interestd in coding.As I am a student , research is going on.
+ I am interestd in coding , research is going on.
 
 <!---
 ayeshasaddiqa123/ayeshasaddiqa123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
