@@ -1,7 +1,7 @@
  👋******HELLO THERE******
  _____________________________________________________________
  
- This is **AYESHA SADDIQA** student of computer science at **government college university**.
+ This is **AYESHA SADDIQA**, BS computer science  student at **government college university**.
  
  As I dived in AI , research is going on.
 
